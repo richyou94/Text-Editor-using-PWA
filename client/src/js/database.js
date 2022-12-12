@@ -13,6 +13,7 @@ const initdb = async () =>
   });
 
 // TODO: Add logic to a method that accepts some content and adds it to the database
+// dummy comment for heroku deploy
 export const putDb = async (content) => {
   console.log('PUT to the database');
 
