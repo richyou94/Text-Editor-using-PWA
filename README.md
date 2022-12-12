@@ -1,5 +1,6 @@
 # text-editor-pwatool 
 ## Main Contributor: Richard You
+## Deployed Link: [Link](https://text-editor-pwatool.herokuapp.com)
 
 ## Table of Contents
 - [Project Description](#project-description)
@@ -20,14 +21,12 @@
 
 ## Installation
 npm i in order to install concurrently, and do npm run install
+
 ## Usage
 after that, use npm start in order to create dist folder and bundled files. then simply go to localhost and install the app into desktop
 
-### Add your screenshots below to explain the usage of this project.
 ## Question
 Please ask any questions using the contact information below
-
-- Contact Number: 
 
 - GitHub Username: [YichanYouRichard](http://github.com/YichanYouRichard)
 
@@ -38,6 +37,8 @@ Please ask any questions using the contact information below
  - HTML
  - JavaScript
  - Express js
+ - Webpack
+ - PWA
+ 
  ## Final-Comment
-
 Thank you for reviewing this project!
